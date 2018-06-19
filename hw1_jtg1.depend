@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1529348101 source:u:\csii_2308\hw1_jtg\hw1_jtg\itemtype.cpp
+	<fstream>
+	<iostream>
+	"ItemType.h"
+
+1529348101 u:\csii_2308\hw1_jtg\hw1_jtg\itemtype.h
+	<fstream>
+
+1529350155 source:u:\csii_2308\hw1_jtg\hw1_jtg\unsorted.cpp
+	"unsorted.h"
+
+1529344563 u:\csii_2308\hw1_jtg\hw1_jtg\unsorted.h
+	"ItemType.h"
+	<fstream>
+	<iostream>
+
+1529351971 source:u:\csii_2308\hw1_jtg\hw1_jtg\listdriver.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	<cstdlib>
+	"unsorted.h"
+
